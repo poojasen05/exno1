@@ -22,7 +22,7 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
-#DATA CLEANING
+# DATA CLEANING
 
 <img width="924" height="774" alt="image" src="https://github.com/user-attachments/assets/ed11a641-5d48-4596-bbc5-cdf51fdc65fb" />
 
