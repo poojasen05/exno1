@@ -72,4 +72,4 @@ STEP 6: Use zscore of to remove outliers
 
            
 # Result
-          Thus the given data successfully performed data cleaning and saved the cleaned data to a file.
+Thus the given data successfully performed data cleaning and saved the cleaned data to a file.
